@@ -5,29 +5,29 @@
   <br><br><br><br>
 </p>
 
-## :star: Tampilan Program Qt-Designer
+## :point_right: Soal Nomor [1]
+
+### :star: Tampilan Program Qt-Designer
 
 ![](Images/interfacePyQt5.png)
 
-## :cyclone: Tampilan Interface Aplikasi
+### :star: Tampilan Interface Aplikasi
 
 ![](Images/interfaceProgram.png)
 
-## :point_right: Soal Nomor [1]
-
-### Tambah Data
+### :cyclone: Tambah Data
 
 ![](Images/tambahData.gif)
 
-### Edit Data
+### :cyclone: Edit Data
 
 ![](Images/editData.gif)
 
-### Clear Data
+### :cyclone: Clear Data
 
 ![](Images/clearData.gif)
 
-### Hapus Data
+### :cyclone: Hapus Data
 
 ![](Images/hapusData2.gif)
 
@@ -37,7 +37,7 @@
 
 <p> Kesalahannya terletak pada Indentasi <b>app.Exec();</b> Solusinya adalah dengan menghapus indentasi tersebut maka program akan berjalan dengan baik</p>
 
-### Hasil Running
+### :cyclone: Hasil Running
 
 ![](Images/nomor2-run0.png)
 
