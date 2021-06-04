@@ -5,6 +5,10 @@
   <br><br><br><br>
 </p>
 
+| Nama | NIM | Kelas |
+| -- | -- | -- |
+| :boy: : **Rizky Nugraha Herliyanto** | 19104014 | SE03A |
+
 ## :point_right: Soal Nomor [1]
 
 ### :star: Tampilan Program Qt-Designer
