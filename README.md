@@ -6,7 +6,7 @@
 
 ![](Images/interfaceProgram.png)
 
-## Soal Nomor [1]
+## :point_right: Soal Nomor [1]
 
 ### Tambah Data
 
@@ -22,9 +22,9 @@
 
 ### Hapus Data
 
-![](Images/hapusData.gif)
+![](Images/hapusData2.gif)
 
-## Soal Nomor [2]
+## :point_right: Soal Nomor [2]
 
 ![](Images/nomor2.png)
 
