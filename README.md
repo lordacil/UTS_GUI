@@ -6,6 +6,32 @@
 
 ![](Images/interfaceProgram.png)
 
-1. Soal Nomor 1
+## Soal Nomor [1]
 
-2. Soal Nomor 2
+### Tambah Data
+
+![](Images/tambahData.gif)
+
+### Edit Data
+
+![](Images/editData.gif)
+
+### Clear Data
+
+![](Images/clearData.gif)
+
+### Hapus Data
+
+![](Images/hapusData.gif)
+
+## Soal Nomor [2]
+
+![](Images/nomor2.png)
+
+<p> Kesalahannya terletak pada Indentasi <b>app.Exec();</b> Solusinya adalah dengan menghapus indentasi tersebut maka program akan berjalan dengan baik</p>
+
+### Hasil Running
+
+![](Images/nomor2-run0.png)
+
+![](Images/nomor2-run1.png)
